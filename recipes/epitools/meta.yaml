@@ -43,7 +43,7 @@ test:
 
 about:
   home: https://github.com/epitools/epitools
-  summary: EpiTools Plugin
+  summary: EpiTools: Image Processing Napari Plugin for epithelial tissues
   license: BSD-3-Clause
   license_file: LICENCE.md
 
@@ -53,3 +53,4 @@ extra:
     - goanpeca
     - jaimergp
     - Pablo1990
+    - giuliapaci
